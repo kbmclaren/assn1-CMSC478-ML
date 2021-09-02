@@ -1,4 +1,5 @@
 # assn1-CMSC478-ML<br>
+## Description<br>
 
 Assignmet 1 focused on predicting the larger stock markets movements using daily news headlines.<br>
 
